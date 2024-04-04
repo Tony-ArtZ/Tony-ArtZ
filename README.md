@@ -2,7 +2,6 @@
 
 ## 💫 About Me:
 I am Adarsh Upadhyay. 🙋‍♂️ Currently pursuing BTECH Computer Engineering Degree. Passionate about Computers 💻 and Pizza 🍕!
-<br/>
 <br/> I am Into Indie Game Dev 🎮, Web Dev 💻, and App Dev 📱!
 
 ## 🌐 Socials:
