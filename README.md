@@ -1,6 +1,6 @@
 # Hello Traveler 🧙‍♂️!
 
-# 💫 About Me:
+## 💫 About Me:
 I am Adarsh Upadhyay. 🙋‍♂️ Currently pursuing BTECH Computer Engineering Degree. Passionate about Computers 💻 and Pizza! 🍕
 <br/> Into Indie Game Dev 🎮, Web Dev 💻, and App Dev 📱!
 
