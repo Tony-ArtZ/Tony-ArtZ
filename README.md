@@ -1,8 +1,9 @@
 # Hello Traveler 🧙‍♂️!
 
 ## 💫 About Me:
-I am Adarsh Upadhyay. 🙋‍♂️ Currently pursuing BTECH Computer Engineering Degree. Passionate about Computers 💻 and Pizza! 🍕
-<br/> Into Indie Game Dev 🎮, Web Dev 💻, and App Dev 📱!
+I am Adarsh Upadhyay. 🙋‍♂️ Currently pursuing BTECH Computer Engineering Degree. Passionate about Computers 💻 and Pizza 🍕!
+<br/>
+<br/> I am Into Indie Game Dev 🎮, Web Dev 💻, and App Dev 📱!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarsh_upadhyay_tz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-upadhyay-8b8a55232) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TonyArtZ4) 
