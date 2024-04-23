@@ -1,4 +1,4 @@
-<div style="display:grid;place-content:center;">
+<div style="display:grid; place-items:center; width:100%">
 <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode-Thick.png" width="200" height="auto" />
 </div>
 
