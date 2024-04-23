@@ -1,4 +1,6 @@
-<img src="\https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode-Thick.png" width="200" height="auto" />
+<center>
+<img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode-Thick.png" width="200" height="auto" />
+</center>
 
 # Hello Traveler 🧙‍♂️!
 
