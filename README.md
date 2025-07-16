@@ -1,6 +1,7 @@
-# ░▒▓█ ADARSH UPADHYAY █▓▒░
 
-```
+<h1 align=center> ░▒▓█ ADARSH UPADHYAY █▓▒░</h1>
+
+<pre align=center>
 
     .....                                                         ..                                s                     
  .H8888888h.  ~-.                              ..              :**888H: `: .xH""                   :8       :~"""88hx.    
@@ -18,7 +19,8 @@ X~     `?888888hx~  ...ue888b   x@88k u@88c. 9888i   .dL     '8hx  48888 ?8888  
                                                   ./"                                                     `888>    X888~  
                                                  ~`                                                        '"88...x8""    
 
-```
+
+</pre>
 
 > **BTECH Computer Engineering Student**  
 > **Indie Game Dev** • **Web Dev** • **App Dev**  
@@ -26,23 +28,31 @@ X~     `?888888hx~  ...ue888b   x@88k u@88c. 9888i   .dL     '8hx  48888 ?8888  
 
 ---
 
-## ▓▒░ STATS ░▒▓
+<h2 align=center>▓▒░ STATS ░▒▓</h2>
 
 <p align="center">
   <img src="https://pixel-widgets.onrender.com/stats/tony-artz" alt="GitHub Stats" />
 </p>
 
-## ▓▒░ PROGRAMMING LANGUAGES ░▒▓
+<h2 align=center>▓▒░ PROGRAMMING LANGUAGES ░▒▓</h2>
 
-![Top Languages](https://pixel-widgets.onrender.com/languages/tony-artz)
+<p align="center">
+  <img src="https://pixel-widgets.onrender.com/languages/tony-artz" alt="GitHub Language" />
+</p>
 
-## ▓▒░ ACHIEVEMENTS UNLOCKED ░▒▓
 
-![GitHub Trophies](https://pixel-widgets.onrender.com/trophies/tony-artz)
+<h2 align=center>▓▒░ ACHIEVEMENTS UNLOCKED ░▒▓</h2>
 
-## ▓▒░ CONNECT WITH ME ░▒▓
+<p align="center">
+  <img src="https://pixel-widgets.onrender.com/trophies/tony-artz" alt="GitHub Stats" />
+</p>
 
-![Social Links](https://pixel-widgets.onrender.com/social/tony-artz)
+
+<h2 align=center>▓▒░ CONNECT WITH ME ░▒▓</h2>
+
+<p align="center">
+  <img src="https://pixel-widgets.onrender.com/social/tony-artz" alt="GitHub Stats" />
+</p>
 
 ---
 
