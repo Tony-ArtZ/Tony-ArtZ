@@ -30,6 +30,10 @@ X~     `?888888hx~  ...ue888b   x@88k u@88c. 9888i   .dL     '8hx  48888 ?8888  
 
 ![GitHub Stats](https://pixel-widgets.onrender.com/stats/tony-artz)
 
+<p align="center">
+  <img src="https://pixel-widgets.onrender.com/stats/tony-artz" alt="GitHub Stats" />
+</p>
+
 ## ▓▒░ PROGRAMMING LANGUAGES ░▒▓
 
 ![Top Languages](https://pixel-widgets.onrender.com/languages/tony-artz)
