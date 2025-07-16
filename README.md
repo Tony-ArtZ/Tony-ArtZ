@@ -34,6 +34,7 @@ X~     `?888888hx~  ...ue888b   x@88k u@88c. 9888i   .dL     '8hx  48888 ?8888  
   <img src="https://pixel-widgets.onrender.com/stats/tony-artz" alt="GitHub Stats" />
 </p>
 
+
 <h2 align=center>▓▒░ PROGRAMMING LANGUAGES ░▒▓</h2>
 
 <p align="center">
@@ -41,11 +42,13 @@ X~     `?888888hx~  ...ue888b   x@88k u@88c. 9888i   .dL     '8hx  48888 ?8888  
 </p>
 
 
+
 <h2 align=center>▓▒░ ACHIEVEMENTS UNLOCKED ░▒▓</h2>
 
 <p align="center">
   <img src="https://pixel-widgets.onrender.com/trophies/tony-artz" alt="GitHub Stats" />
 </p>
+
 
 
 <h2 align=center>▓▒░ CONNECT WITH ME ░▒▓</h2>
