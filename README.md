@@ -26,7 +26,7 @@ X~     `?888888hx~  ...ue888b   x@88k u@88c. 9888i   .dL     '8hx  48888 ?8888  
 
 ---
 
-## ▓▒░ PIXEL STATS ░▒▓
+## ▓▒░ STATS ░▒▓
 
 ![GitHub Stats](https://pixel-widgets.onrender.com/stats/tony-artz)
 
@@ -53,5 +53,3 @@ X~     `?888888hx~  ...ue888b   x@88k u@88c. 9888i   .dL     '8hx  48888 ?8888  
 │  ██████  ██████  ██████  ██ ██   ████  ██████  │
 └────────────────────────────────────────────────┘
 ```
-
-**IN PIXEL PERFECT STYLE** • **GAME BOY AESTHETICS** • **RETRO VIBES**
